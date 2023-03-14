@@ -25,12 +25,6 @@ const Footer = () => {
               About
             </a>
           </li>
-
-          <li>
-            <a href="#contactme" className="footer_link">
-              About
-            </a>
-          </li>
         </ul>
 
         <div className="footer_social">

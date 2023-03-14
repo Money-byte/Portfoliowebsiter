@@ -62,7 +62,10 @@ const Data = () => {
         ready to exploit every opportunity given to me!
       </p>
 
-      <a href="#contact" className="button button-flex">
+      <a
+        href="https://www.linkedin.com/in/aprajit-sharma-4271031b8/"
+        className="button button-flex"
+      >
         Connect with me
         <svg
           class="button__icon"

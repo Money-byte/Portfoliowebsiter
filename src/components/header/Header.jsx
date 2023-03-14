@@ -39,7 +39,10 @@ const Header = () => {
             </li>
 
             <li className="nav_items">
-              <a href="#contact" className="nav_links">
+              <a
+                href="https://www.linkedin.com/in/aprajit-sharma-4271031b8/"
+                className="nav_links"
+              >
                 <i className="uil uil-message nav_icons"></i>Contact Me!
               </a>
             </li>
