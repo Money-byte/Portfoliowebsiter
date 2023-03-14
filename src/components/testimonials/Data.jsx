@@ -1,6 +1,6 @@
 import Image1 from "../../assets/testimonialaatif.jpg";
 import Image2 from "../../assets/testimonialshaan.jpg";
-import Image3 from "../../assets/testimonialaatif.jpg";
+// import Image3 from "../../assets/testimonialaatif.jpg";
 
 export const Data = [
   {
