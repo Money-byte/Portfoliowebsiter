@@ -16,9 +16,9 @@ const About = () => {
         <div className="about_data">
           <Info />
           <p className="about_description">
-            I am Full Stack Web Developer in MERN stack technology and aspiring
-            Data Scientist and Machine Learning Expert who always wants to keep
-            leaning and improving.
+            I am a Full Stack Web Developer in MERN stack technology and
+            aspiring Data Scientist and Machine Learning Expert who always wants
+            to keep leaning and improving.
           </p>
 
           <a download="" href={CV} className="button button--flex">
